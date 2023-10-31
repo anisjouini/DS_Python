@@ -1,0 +1,7 @@
+pycryptodome
+maskpass
+bcrypt
+progress
+cryptography
+pyfiglet
+colorama
